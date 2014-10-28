@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcambrj/resume.git"
+  },
+  "author": "robert@cambridge.me",
+  "homepage": "https://github.com/rcambrj/resume",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "generate-github-markdown-css": "^4.0.0",
+    "puppeteer": "^5.2.1"
+  }
+}
